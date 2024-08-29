@@ -27,13 +27,6 @@ h1 {
 p{
     font-size: 20;
 }
-section {
-    background: rgb(17, 2, 10);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: 70px;
-}
 
 .chamada-texto {
     margin-right: 5%;
@@ -42,7 +35,7 @@ section {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    gap: 10px;
+    gap: 15px;
 }
 
 .categoria {
@@ -53,7 +46,7 @@ section {
 
 .categoria-videos img {
     opacity: 0.5;
-    height: 200px;
+    height: 350px;
 }
 
 .categoria-videos img:hover {
